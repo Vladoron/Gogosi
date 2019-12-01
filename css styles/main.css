@@ -33,9 +33,15 @@ ul li {
   justify-content: flex-end;
   padding: 2px;
   border-radius: 13px;
-  border-width: 1px; }
+  border-width: 1px;
+  margin-top: 10px; }
 
 .timp {
+  font-family: 'Open sans', sans-serif;
+  font-size: 20px;
+  font-weight: 700; }
+
+.portii {
   font-family: 'Open sans', sans-serif;
   font-size: 20px;
   font-weight: 700; }
@@ -43,11 +49,7 @@ ul li {
 .dificultate {
   font-family: 'Open sans', sans-serif;
   font-size: 20px;
-  font-weight: 700;
-  float: right;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center; }
+  font-weight: 700; }
 
 .poza-mare {
   width: 100%; }
